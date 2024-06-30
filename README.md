@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://aleks-tl.github.io/rsschool-cv/q
+https://aleks-tl.github.io/rsschool-cv/
